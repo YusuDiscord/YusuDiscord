@@ -35,8 +35,8 @@
 
 <p align="center">
   <br>
-  <a href="https://github.com/YusuDiscord">
-    <img src="https://activity-graph.herokuapp.com/graph?username=Rachit-Pal&theme=react-dark&hide_border=true">
+  <a href="https://github.com/YusuDiscord/DAGB-Roleplay">
+    <img src="https://activity-graph.herokuapp.com/graph?username=YusuDiscord&theme=react-dark&hide_border=true">
   </a>
 </p>
 
