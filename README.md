@@ -34,10 +34,9 @@
 <!-- Projet Vedette -->
 <h2 align="center">Projet Vedette</h2>
 <p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,nodejs,github,html,js,css,discord" /><br>
-    <img src="https://skillicons.dev/icons?i=mongodb,vscode," />
-  </a>
+    [Nom du Projet]<br>
+    [Description du Projet]<br>
+    [Lien vers le Projet]
 </p>
 
 <!-- Statistiques GitHub -->
