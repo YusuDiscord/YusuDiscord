@@ -36,6 +36,10 @@
 
 <h2 align="center">🔥 Langues-Frameworks-Tools 🔥</h2>
 <p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,nodejs,github,html,js,css,discord" /><br>
+    <img src="https://skillicons.dev/icons?i=mongodb,vscode," />
+  </a>
 </p><br>
 
 
