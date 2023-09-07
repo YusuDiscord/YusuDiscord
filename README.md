@@ -20,7 +20,7 @@
 <!-- Section sur moi -->
 <h2 align="center">À Propos de Moi</h2>
 <p align="center">
-    Salut, je suis Yusu, un développeur passionné avec une passion pour la création de solutions innovantes. J'adore explorer de nouvelles technologies et résoudre des problèmes complexes.
+    Salut, je suis Yusu, un développeur passionné. J'adore explorer de nouvelles technologies et résoudre des problèmes complexes.
 </p>
 
 <!-- Compétences -->
@@ -49,8 +49,8 @@
 <!-- Contact -->
 <h2 align="center">Contact</h2>
 <p align="center">
-    📧 Email : [Votre Email]<br>
-    💬 Discord : [Votre Pseudo Discord]#1234<br>
+    📧 Email : [dagbroleplay@gmail.com]<br>
+    💬 Discord : [yusu.dagb]<br>
 </p>
 
 <!-- Pied de page -->
