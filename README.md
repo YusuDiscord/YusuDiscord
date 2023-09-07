@@ -35,9 +35,9 @@
 <!-- Projet Vedette -->
 <h2 align="center">Projet Vedette</h2>
 <p align="center">
-    DAGB Roleplay<br>
-    Calypso<br>
-    AntiSystem
+    <a href="https://discord.gg/dagb-roleplay">DAGB Roleplay</a><br>
+    <a href="https://discord.gg/dagb-roleplay">Calypso</a><br>
+    <a href="https://discord.gg/dagb-roleplay">AntiSystem</a>
 </p>
 
 <!-- Statistiques GitHub -->
@@ -49,11 +49,6 @@
 <!-- Contact -->
 <h2 align="center">Contact</h2>
 <p align="center">
-    📧 Email : dagbroleplay@gmail.com<br>
-    💬 Discord : yusu.dagb<br>
+    📧 Email : <a href="https://discord.gg/dagb-roleplay">dagbroleplay@gmail.com</a><br>
+    💬 Discord : <a href="https://discord.gg/dagb-roleplay">yusu.dagb</a><br>
 </p>
-
-<!-- Pied de page -->
-<footer align="center">
-    ⭐ Merci de visiter mon profil !
-</footer>
