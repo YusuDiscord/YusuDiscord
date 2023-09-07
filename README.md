@@ -1,6 +1,6 @@
 <!--- P R O F I L E   V I E W S   C O U N T E R S --->
 
-<img align="right" src="https://komarev.com/ghpvc/?username=YusuDiscord&label=Profile%20views&color=0e75b6&style=flat"><br>
+<img align="right" src="https://komarev.com/ghpvc/?username=YusuDiscord&label=Profile%20views&color=fa8d0c&style=flat"><br>
 
 
 <!--- P R O F I L E   B A N N E R --->
@@ -11,7 +11,7 @@
 
 <h1 align="center">  
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=40&pause=1000&color=18AFFF&center=true&vCenter=true&width=435&height=50&lines=Hey+je+suis+Yusu!"/>
+    <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=40&pause=1000&color=fa8d0c&center=true&vCenter=true&width=435&height=50&lines=Salut+moi+c'est+Yusu"/>
   </a>
 </h1>
 
@@ -27,7 +27,7 @@
 <!--- S O C I A L   M E D I A   B A D G E S --->
 
 <div align="center">
-    <a href="https://discord.gg/NUQpj5FT3w" target="_blank"><img src="https://img.shields.io/badge/Discord-1DA1F2?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a>
+    <a href="https://discord.gg/dagb-roleplay" target="_blank"><img src="https://img.shields.io/badge/Discord-1DA1F2?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a>
 </div>
 <hr> <!--- <hr> tag is use for Horizontal Lines --->
 
