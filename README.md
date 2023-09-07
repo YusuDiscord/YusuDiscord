@@ -35,7 +35,6 @@
 <!--- L A N G U A G E - F R A M E W O R K S -  T O O L S --->
 
 <h2 align="center">🔥 Langues-Frameworks-Tools 🔥</h2>
-<br>
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=git,nodejs,github,html,js,css,discord" /><br>
