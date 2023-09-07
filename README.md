@@ -20,7 +20,7 @@
 <!-- Section sur moi -->
 <h2 align="center">À Propos de Moi</h2>
 <p align="center">
-    Salut, je suis [Votre Nom], un développeur passionné avec une passion pour la création de solutions innovantes. J'adore explorer de nouvelles technologies et résoudre des problèmes complexes.
+    Salut, je suis Yusu, un développeur passionné avec une passion pour la création de solutions innovantes. J'adore explorer de nouvelles technologies et résoudre des problèmes complexes.
 </p>
 
 <!-- Compétences -->
@@ -35,15 +35,15 @@
 <!-- Projet Vedette -->
 <h2 align="center">Projet Vedette</h2>
 <p align="center">
-    [Nom du Projet]<br>
-    [Description du Projet]<br>
-    [Lien vers le Projet]
+    DAGB Roleplay<br>
+    Calypso<br>
+    AntiSystem
 </p>
 
 <!-- Statistiques GitHub -->
 <h2 align="center">Statistiques GitHub</h2>
 <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=VotreNom&show_icons=true&theme=radical" alt="GitHub Stats">
+    <img src="https://github-readme-stats.vercel.app/api?username=YusuDiscord&show_icons=true&theme=radical" alt="GitHub Stats">
 </p>
 
 <!-- Contact -->
