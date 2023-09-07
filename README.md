@@ -31,16 +31,6 @@
 </div>
 <hr> <!--- <hr> tag is use for Horizontal Lines --->
 
-<!--- G I T H U B   C O N T R I B U T I O N   G R A P H --->
-
-<p align="center">
-  <br>
-  <a href="https://github.com/YusuDiscord/DAGB-Roleplay">
-    <img src="https://activity-graph.herokuapp.com/graph?username=YusuDiscord&theme=react-dark&hide_border=true">
-  </a>
-</p>
-
-
 <!--- L A N G U A G E - F R A M E W O R K S -  T O O L S --->
 
 <h2 align="center">🔥 Langues-Frameworks-Tools 🔥</h2>
