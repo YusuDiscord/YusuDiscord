@@ -27,7 +27,7 @@
 <!--- S O C I A L   M E D I A   B A D G E S --->
 
 <div align="center">
-    <a href="https://discord.gg/dagb-roleplay" target="_blank"><img src="https://img.shields.io/badge/Discord-1DA1F2?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a>
+    <a href="https://discord.gg/dagb-roleplay" target="_blank"><img src="https://img.shields.io/badge/Discord-fa8d0c?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a>
 </div>
 <hr> <!--- <hr> tag is use for Horizontal Lines --->
 
