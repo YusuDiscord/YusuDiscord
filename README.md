@@ -49,11 +49,11 @@
 <!-- Contact -->
 <h2 align="center">Contact</h2>
 <p align="center">
-    📧 Email : [dagbroleplay@gmail.com]<br>
-    💬 Discord : [yusu.dagb]<br>
+    📧 Email : dagbroleplay@gmail.com<br>
+    💬 Discord : yusu.dagb<br>
 </p>
 
 <!-- Pied de page -->
 <footer align="center">
-    ⭐ Merci de visiter mon profil ! N'hésitez pas à me contacter pour des collaborations passionnantes.
+    ⭐ Merci de visiter mon profil !
 </footer>
