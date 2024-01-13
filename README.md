@@ -2,7 +2,7 @@
 <h1 align="center">🌟 Bienvenue sur mon Profil GitHub 🌟</h1>
 
 <!-- Sous-titre -->
-<h3 align="center">Développeur passionné | Créateur de choses étonnantes | Fan de technologie</h3>
+<h3 align="center">Développeur passionné | Créateur de choses étonnantes</h3>
 
 <!-- Badges Sociaux -->
 <p align="center">
@@ -20,7 +20,7 @@
 <!-- Section sur moi -->
 <h2 align="center">À Propos de Moi</h2>
 <p align="center">
-    Salut, je suis Yusu, un développeur passionné. J'adore explorer de nouvelles technologies et résoudre des problèmes complexes.
+    Salut, je suis Yusu, un développeur passionné.
 </p>
 
 <!-- Compétences -->
