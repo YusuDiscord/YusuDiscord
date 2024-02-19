@@ -4,19 +4,6 @@
 <!-- Sous-titre -->
 <h3 align="center">Développeur passionné | Créateur de choses étonnantes</h3>
 
-<!-- Badges Sociaux -->
-<p align="center">
-    <a href="https://discord.gg/dagb-roleplay">
-        <img alt="Twitter" src="https://img.shields.io/badge/Twitter-fa8d0c?style=for-the-badge&logo=twitter&logoColor=white"/>
-    </a>
-    <a href="https://discord.gg/dagb-roleplay">
-        <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-fa8d0c?style=for-the-badge&logo=linkedin&logoColor=white"/>
-    </a>
-    <a href="https://discord.gg/dagb-roleplay">
-        <img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-fa8d0c?style=for-the-badge&logo=firefox&logoColor=white"/>
-    </a>
-</p>
-
 <!-- Section sur moi -->
 <h2 align="center">À Propos de Moi</h2>
 <p align="center">
