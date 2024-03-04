@@ -23,8 +23,6 @@
 <h2 align="center">Projet Vedette</h2>
 <p align="center">
     <a href="https://discord.gg/dagb-roleplay">DAGB Roleplay</a><br>
-    <a href="https://discord.gg/dagb-roleplay">Calypso</a><br>
-    <a href="https://discord.gg/dagb-roleplay">AntiSystem</a>
 </p>
 
 <!-- Statistiques GitHub -->
