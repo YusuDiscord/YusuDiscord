@@ -20,7 +20,7 @@
 
 <h4 align="center">
     ⚜️ Développeur Fullstack ⚜️<br>
-    💻 Travaille actuellement sur <a href="https://github.com/YusuDiscord">DAGB Roleplay</a> 💻<br>
+    💻 Travaille actuellement sur <a href="https://discord.gg/dagbroleplay">DAGB Roleplay</a> 💻<br>
 </h4>
 
 
