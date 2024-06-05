@@ -20,7 +20,7 @@
 
 <h4 align="center">
     ⚜️ Développeur Fullstack back end/front end ⚜️<br>
-    💻 Travaille actuellement sur <a href="https://github.com/YusuCalypso">DAGB Roleplay</a> 💻<br>
+    💻 Travaille actuellement sur <a href="https://github.com/YusuDiscord">DAGB Roleplay</a> 💻<br>
 </h4>
 
 
@@ -47,7 +47,7 @@
 <br>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,nodejs,github,html,js,css,discord" /><br>
+    <img src="https://skillicons.dev/icons?i=git,nodejs,github,html,js,css,discord,ejs,boostrap,scss" /><br>
     <img src="https://skillicons.dev/icons?i=mongodb,vscode," />
   </a>
 </p><br>
