@@ -11,7 +11,7 @@
 
 <h1 align="center">  
   <a href="">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=40&pause=1000&color=18AFFF&center=true&vCenter=true&width=435&height=50&lines=Hey+je+suis+Yusu!"/>
+    <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=40&pause=1000&color=3eaf7c&center=true&vCenter=true&width=435&height=50&lines=Hey+je+suis+Yusu!"/>
   </a>
 </h1>
 
@@ -63,14 +63,14 @@
 <p align=center>
   <div align=center>
     <!-- S t r e a k -->
-    <a href="https://github.com/denvercoder1/github-readme-streak-stats" title="Go to Source"><img align="left" width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=YusuDiscord&theme=react&border=61dafb&hide_border=true" alt="zumrudu-anka" /></a>
+    <a href="https://github.com/denvercoder1/github-readme-streak-stats" title="Go to Source"><img align="left" width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=YusuDiscord&theme=react&border=3eaf7c&hide_border=true" alt="zumrudu-anka" /></a>
     <!-- Commit and Stars -->
-    <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source"><img align="right" width=390 src="https://github-readme-stats.vercel.app/api?username=YusuDiscord&show_icons=true&count_private=true&theme=react&border_color=61dafb&hide_border=true"/></a>
+    <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source"><img align="right" width=390 src="https://github-readme-stats.vercel.app/api?username=YusuDiscord&show_icons=true&count_private=true&theme=react&border_color=3eaf7c&hide_border=true"/></a>
   </div>
   <br><br><br><br><br><br><br><br><br>
   <div align=center>
     <!-- most used language -->
-    <a href="https://github.com/anuraghazra/github-readme-stats"><img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=APC9&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true" /></a>
+    <a href="https://github.com/anuraghazra/github-readme-stats"><img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=APC9&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=3eaf7c&langs_count=8&layout=compact&border_color=61dafb&hide_border=true" /></a>
   </div>
 </p>
 
