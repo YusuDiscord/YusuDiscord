@@ -1,6 +1,6 @@
 <!--- P R O F I L E   V I E W S   C O U N T E R S --->
 
-<img align="right" src="https://komarev.com/ghpvc/?username=YusuCalypso&label=Profile%20views&color=0e75b6&style=flat"><br>
+<img align="right" src="https://komarev.com/ghpvc/?username=YusuDiscord&label=Profile%20views&color=0e75b6&style=flat"><br>
 
 
 <!--- P R O F I L E   B A N N E R --->
@@ -46,7 +46,7 @@
 <br>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,nodejs,github,html,js,css,discord,express,bootstrap,scss,typescript,less" /><br>
+    <img src="https://skillicons.dev/icons?i=git,nodejs,github,html,js,css,discord,express,bootstrap,scss,typescript,less,dart,java" /><br>
     <img src="https://skillicons.dev/icons?i=mongodb,vscode," />
   </a>
 </p><br>
