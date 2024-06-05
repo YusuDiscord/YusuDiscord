@@ -36,7 +36,6 @@
 <p align="center">
   <br>
   <a href="https://github.com/Ashutosh00710/github-readme-activity-graph">
-    <img src="https://activity-graph.herokuapp.com/graph?username=Rachit-Pal&theme=react-dark&hide_border=true">
   </a>
 </p>
 
