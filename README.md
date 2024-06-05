@@ -10,7 +10,7 @@
 <!--- A N I M A T E D   T E X T --->
 
 <h1 align="center">  
-  <a href="https://git.io/typing-svg">
+  <a href="">
     <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=40&pause=1000&color=18AFFF&center=true&vCenter=true&width=435&height=50&lines=Hey+je+suis+Yusu!"/>
   </a>
 </h1>
