@@ -53,19 +53,5 @@
 
 
 <hr>
-
-
-
-<!--- G I T H U B   P R O F I L E   S T A T S --->
-
-<h2 align="center">〽️ STATISTIQUE 〽️</h2>
-<br>
-<p align=center>
-  <div align=center>
-    <!-- most used language -->
-    <a href=""><img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=APC9&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=ffffff&text_color=ffffff&icon_color=61dafb&bg_color=3eaf7c&langs_count=8&layout=compact&border_color=3eaf7c&hide_border=true" /></a>
-  </div>
-</p>
-
 <br>
 <hr>
