@@ -5,7 +5,7 @@
 
 <!--- P R O F I L E   B A N N E R --->
 <p align="center">
-  <img src="https://github.com/YusuDiscord/banner.png" alt="Profile Banner" width="100%" />
+  <img src="https://dagb-roleplay.xyz/images/systeme/illustration.png" alt="Profile Banner" width="100%" />
 </p>
 
 <!--- A N I M A T E D   T E X T --->
