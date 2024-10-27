@@ -1,6 +1,6 @@
 <!--- P R O F I L E   V I E W S   C O U N T E R --->
 <p align="right">
-  <img src="https://komarev.com/ghpvc/?username=YusuDiscord&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=YusuDiscord&label=Profile%20views&color=663ad9&style=flat" alt="Profile views" />
 </p>
 
 <!--- A N I M A T E D   T E X T --->
