@@ -3,11 +3,6 @@
   <img src="https://komarev.com/ghpvc/?username=YusuDiscord&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
 </p>
 
-<!--- P R O F I L E   B A N N E R --->
-<p align="center">
-  <img src="https://dagb-roleplay.xyz/images/systeme/illustration.png" alt="Profile Banner" width="100%" />
-</p>
-
 <!--- A N I M A T E D   T E X T --->
 <h1 align="center">  
   <a href="#">
