@@ -25,13 +25,6 @@
 
 <hr>
 
-<!--- G I T H U B   C O N T R I B U T I O N   G R A P H --->
-<p align="center">
-  <a href="https://github.com/Ashutosh00710/github-readme-activity-graph">
-    <img src="https://github-readme-activity-graph.cyclic.app/graph?username=YusuDiscord&bg_color=0d1117&color=3eaf7c&line=3eaf7c&point=ffffff&hide_border=true" alt="Contribution Graph" />
-  </a>
-</p>
-
 <!--- L A N G U A G E S - F R A M E W O R K S -  T O O L S --->
 <h2 align="center">🔥 Langues, Frameworks & Outils 🔥</h2>
 <p align="center">
