@@ -10,12 +10,6 @@
   </a>
 </h1>
 
-<!--- A B O U T   M E --->
-<h4 align="center">
-    ⚜️ Développeur Fullstack ⚜️<br>
-    💻 Travaille actuellement sur <a href="https://discord.gg/dagbroleplay" target="_blank">DAGB Roleplay</a> 💻<br>
-</h4>
-
 <!--- S O C I A L   M E D I A   B A D G E S --->
 <div align="center">
     <a href="https://discord.gg/NUQpj5FT3w" target="_blank">
