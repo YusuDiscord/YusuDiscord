@@ -1,4 +1,4 @@
-<h2 align="left">Salut 👋!</h2>
+<h2 align="left">Salut 👋</h2>
 
 ###
 
