@@ -41,12 +41,20 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/yarn/yarn-original.svg" height="30" alt="yarn logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vite/vite-original.svg" height="30" alt="vite logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original-wordmark.svg" height="30" alt="express logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="30" alt="github logo" />
 </div>
 
 ###
 
 <div align="left">
   <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
+  <img src="https://img.shields.io/static/v1?message=GitHub&logo=github&label=&color=181717&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="github logo" />
+  <img src="https://img.shields.io/static/v1?message=Express.js&logo=express&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="express logo" />
+  <img src="https://img.shields.io/static/v1?message=NPM&logo=npm&label=&color=CB3837&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="npm logo" />
+  <img src="https://img.shields.io/static/v1?message=Yarn&logo=yarn&label=&color=2C8EBB&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="yarn logo" />
 </div>
 
 ###
