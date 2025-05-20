@@ -8,15 +8,15 @@
 
 **Bonjour !** 👋
 
-Je suis un développeur FiveM passionné par la création de scripts et de ressources pour GTA V ! 🚗💻
+Je suis un développeur FiveM passionné par la création de scripts et de ressources pour GTA ! 🚗💻
 
 Je me spécialise dans :
+- **Express Js**
 - **Lua**
+- **Typescript**
 - **JavaScript**
 - **Node.js**
 - **MySQL** et **MongoDB** pour la gestion de bases de données.
-
-Mon objectif est de créer des serveurs FiveM stables et performants, avec des fonctionnalités uniques pour améliorer l'expérience de jeu.
 
 ### 🛠️ Technologies que j'utilise
 
