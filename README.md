@@ -57,14 +57,3 @@ Vous pouvez me contacter via mes réseaux ci-dessous :
   <img src="https://img.shields.io/static/v1?message=GitHub&logo=github&label=&color=181717&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="github logo" />
   <img src="https://img.shields.io/static/v1?message=FiveM&logo=fivem&label=&color=3E1F47&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="fivem logo" />
 </div>
-
-### 👨‍💻 Mes Compétences
-
-Je suis spécialisé dans la création de scripts et la personnalisation de serveurs FiveM avec des systèmes tels que :
-
-- Gestion de bases de données avec **MySQL** et **MongoDB**
-- Développement de **scripts Lua** et **JavaScript**
-- Création d’interfaces utilisateurs avec **HTML/CSS/JS**
-- Utilisation de **Docker** pour la gestion de serveurs
-
-Si tu veux discuter ou collaborer sur un projet FiveM, n'hésite pas à me contacter ! 😄
