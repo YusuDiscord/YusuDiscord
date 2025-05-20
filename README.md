@@ -2,7 +2,7 @@
 
 ###
 
-<img align="right" height="150" src="https://i.ibb.co/R6X7qWc/5.png"  />
+<img align="right" height="150" src="https://i.postimg.cc/RVrzkBh2/Pariature-removebg-preview.png"  />
 
 ###
 
