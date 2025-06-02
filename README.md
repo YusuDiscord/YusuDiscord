@@ -44,14 +44,6 @@ Je me spécialise dans :
 
 ###
 
-## 🚀 Mes Projets FiveM
-
-Voici quelques-unes de mes contributions à la communauté FiveM :
-
-- **[Système de gestion des véhicules](#)** - Un système robuste pour la gestion des véhicules dans un serveur RP.
-- **[Système de métiers](#)** - Permet d'ajouter des métiers personnalisés pour un serveur roleplay.
-- **[Système d'économie dynamique](#)** - Un système d'économie réactif avec des événements pour rendre le serveur plus immersif.
-
 ### 🌟 Contactez-moi
 
 Vous pouvez me contacter via mes réseaux ci-dessous :
