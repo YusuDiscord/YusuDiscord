@@ -8,15 +8,14 @@
 
 **Bonjour !** 👋
 
-Je suis un développeur FiveM passionné par la création de scripts et de ressources pour GTA ! 🚗💻
+Je suis un développeur passionné !
 
 Je me spécialise dans :
 - **Express Js**
-- **Lua**
 - **Typescript**
 - **JavaScript**
 - **Node.js**
-- **MySQL** et **MongoDB** pour la gestion de bases de données.
+- **MongoDB**
 
 ### 🛠️ Technologies que j'utilise
 
